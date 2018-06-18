@@ -344,6 +344,7 @@ img, .value-img {
   max-height: 100px;
   width: auto;
   clear: both;
+  fill: blue;
 }
 
 .value-prop {
